@@ -1,0 +1,89 @@
+* Chapter Notes
+** General History
+- Marconi's first transmission was over the atlantic in 1901
+- The first amateur licenses were granted in 1912 frog 
+- As radio became more popular, the FCC was created to regulate it.
+  + The Amateur service was created in 1934
+    * Part of what makes the name "Amateur" is a clearly defined rule that precludes ham's from earning monetary compensation for their service.
+- Ham's played a crucial role in WWII as operators and radio engineers [fn:3]
+  + In postwar times, they turned their skills to electronics & engineering as a profession.
+- By the 50's - 60's, global transmissions (or DX - will be covered later) was possible - and popular!
+
+
+** Early Technology
+- Early stations used sparks of electricity to create electromagnetic vibrations strong enough.
+  + This was generally inefficient. And dangerous!
+  + This was thankfully replaced by vacuum tube transmitters.
+- By the 1920's both voice & morse were being transmitted.
+- hams invented and utilized utilities like teletype (which is still important to this day).
+- They even invented new forms of picture transmission - Slow Scan Television.
+- The first satellite was built by amateurs, called the OSCAR-1
+  + It was launched in 1961
+- Through the 70's ham's built an extensive network of repeaters to provide long distance communications to low powered radio.
+- In the 80's and 90's, microprocessors made radios much more powerful.
+  + This also brought in multiple modes of digital communication, like packet radio
+
+** Ham radio Today
+- Nowadays, the internet & radio have combined in new ways.
+  + Some examples include:
+    * Wireless data networks
+    * Position Reporting Systems
+    * Radio based email [fn:4]
+      - I'm very interested in this personally
+- voice communications are bouncable between radio and the internet.
+- Morse code is still alive and well thanks to it's simplicity & efficiency
+- Keyboard communications are also possible via radio
+- Improved satellites are now in orbit as well
+- In times of emergency, Ham's are quick to provide their services
+
+** What Do Hams Do?
+*** Talking
+- Hams use voice more than any other form of communication.
+- Most ham radio are made for voice due to this.
+- Thanks to repeaters, distances of 50 miles or more can be covered by even low powered radios.
+- Some hams even bounce signals off the atmosphere to make contacts globally
+- Computer to computer voice is possible via ham radio.
+
+*** Byte-ing
+- By connecting computers to a radio, digital information can be sent over the air.
+- One example of this is 'keyboard-to-keyboard' communications.
+- I suppose packet radio would fall under this as well
+
+*** Sending
+- Morse code!
+
+*** Building
+- you are encouraged to build & repair your own equipment.
+- This leads to innovation and unique builds in general.
+
+*** Watching
+- Transmitting picture & video is possible as well.
+
+* Vocabulary
+- Elmer [fn:1]
+  + Someone who mentors a new amateur radio enthusaist.
+- HAM / Ham [fn:2]
+  * The true answer is unknown.
+  * Even before radio, telegraphers referred to poor operators as a 'ham'
+  * Possibly derived from 'ham-fisted'
+- CB
+  + Citizens Band
+- FRS
+  + Family Radio Service
+- Homebrewing
+  + The act of building, or repairing, your own equipment and accessories.
+- ATV
+  + Amateur Televisioin
+
+* Resources  
+- Additional tutorials can be found at the following URL
+  * http://www.arrl.org/ham-radio-license-manual
+
+* Footnotes
+[fn:1] - Possibly originates from a <1971-03-01 Mon> issue of QST magazine. It references an older man named Elmer, and an aspiring radio enthusiast said we could all use an Elmer in our life.
+
+[fn:2] - For more information, read [[https://en.wikipedia.org/wiki/Etymology_of_ham_radio][the following Wikipedia article]]
+
+[fn:3] - https://en.wikipedia.org/wiki/History_of_amateur_radio#World_War_II
+
+[fn:4] - https://www.winlink.org/ 
