@@ -5,4 +5,4 @@ Welcome to the homepage of my notes from the ARRL Technicians License Manual. Wh
 
 * By Chapter
 ** Chapter 1
-- [[/home/gary/Documents/notes/ARRL/1/1_1-What-is-Amateur-Radio.org][1.1 - What is Amateur Radio?]]
+- [[./1/1_1-What-is-Amateur-Radio.org][1.1 - What is Amateur Radio?]]
