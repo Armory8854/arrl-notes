@@ -7,3 +7,4 @@ Welcome to the homepage of my notes from the ARRL Technicians License Manual. Wh
 ** Chapter 1
 - [[./1/1_1-What-is-Amateur-Radio.org][1.1 - What is Amateur Radio?]]
 - [[./1/1_2-The-FCC-and-Licensing.org][1.2 - The FCC And Licensing]]
+- [[./1/1_3-Amateur-Radio-Activities.org][1.3 - Amateur Radio Activities]]
