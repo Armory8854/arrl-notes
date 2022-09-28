@@ -59,6 +59,63 @@
 *** Watching
 - Transmitting picture & video is possible as well.
 
+** Emergency Communications & Public Service
+*** Service
+- Amateur radio enjoys it's airwave priviliges in large thanks to the emergency response assistance Ham's provide.
+- Thanks to ham radio not depending on extensive support systems (AKA decentralized nature) it's able to help out quickly when other forms of communication go down.
+
+*** Amateur Radio Clubs & Organizations
+- Assisting newcomers is part of the amateur radio community nature
+- You can find clubs on the ARRL's website, under the Affiliated Club Search
+- Joining a club is a great way to get started
+
+** What Makes Amateur Radio Different?
+- While CB and FRS radios exist, amateur radio is different.
+- What makes it different is variety
+  + Specifically, with the types of signals and radio bands accessible.
+
+** Unlicensed Personal Radios
+- The most popular radios are FRS/GMRS handhelds.
+  + These are limited to 22 channels
+  + GMRS requires a license!
+    * Without the license, your maximum 1/2 watt of transmitter output limits you to comms over a few hundred yards to a couple miles.
+- CB, or citizens band, is commonly used
+  + Mainly used in vehicles, boats, and farm equipment.
+  + They have 40 channels, and communication is reliable over a range of several miles.
+- Marine VHF is used on boats
+  + These have up to 50 channels, mainly for short range.
+
+** ARRL - The Nation Association for Amateur Radio
+- The ARRL has been an integral part of Amateur Radio since the beginning
+- They offer the largest number of Examiner Coordinators
+- Also, they work on behalf of all hams with the FCC and Congress.
+- The Core Missions of the ARRL are:
+  + Public Service
+    * The ARRL promotes the public service aspects of Amateur Radio.
+  + Advocacy
+    * The ARRL represents Amateur radio at the local, state, federal, and international levels.
+  + Education
+    * The educational mission of the ARRL is twofold:
+      1. To recruit new amateurs.
+         - The ARRL publishes book and study guides
+         - Maintains a mentor program
+         - And much more
+      2. Promote ham radio in school classrooms, advocating its use as a tool to teach science & technology.
+         - The ARRL assists teachers with appropriate instructional materials & training.
+  + Technology
+    * The ARRL promotes technical skills & training for all amateurs.
+  + Membership
+    * The ARRL offers membership opportunities with may benefits.
+  + QST - The Amateur's Magazine
+    * Members of the ARRL get this magazine full of articles & adveriting.
+
+** Business & Public Safety Radio
+- Policeman & firemen use handheld radios professionally.
+- Even some business issue radios on the job.
+- The FCC created radio services for public agencies & private businesses.
+- These organizations, public and private, are all licensed.
+- The radios are similar to ham radios, sometimes identical.
+      
 * Vocabulary
 - Elmer [fn:1]
   + Someone who mentors a new amateur radio enthusaist.
@@ -70,10 +127,17 @@
   + Citizens Band
 - FRS
   + Family Radio Service
+- GMRS
+  + General Mobile Radio Service
 - Homebrewing
   + The act of building, or repairing, your own equipment and accessories.
 - ATV
   + Amateur Televisioin
+- ARES
+  + Amateur Radio Emergency Service
+  + A Training program for emergency communications readiness.
+- ITU
+  + International Telecommunication Agency
 
 * Resources  
 - Additional tutorials can be found at the following URL
