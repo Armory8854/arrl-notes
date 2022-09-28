@@ -1,0 +1,66 @@
+* Chapter Notes
+- The FCC is charged with admistering all radio signals transmitted by US radio stations
+- The FCC also coordinates these transmissions with other countries
+
+** Why Get A License?
+- Amateurs may choose many types of radios and activities to participate in.
+- However, licenses are there to ensure that all who participate understand the basics before transmitting.
+  + This helps keep Amateur Radio useful & enjoyable for everyone.
+- One of the most important benefits of being licensed is the right to be protected from interference by signals from unlicensed devices, such as consumer electronics.
+
+** Licensing Overview
+- The FCC has a different set of rules for each type of radio use.
+  + These are called services (see the vocabulary for examples)
+- Nearly all services require a license before transmissions can be made.
+  + These are called licensed services, and the Amateur service is one example.
+- Most services do not require an examination to be livensed.
+  + This is because the FCC sets strict technical standards for the radio equipment used in these services.
+    * Amateurs have a large variety of equipment available, so the knowledge to use the equipment is higher.
+
+** Amateur Licenses
+- At one point in time, the FCC gave license exams themselves.
+- Nowadays, licenses are handled by amateurs that are VEC's
+- There are currently 14 different clubs or organizations recognized as VEC's by the FCC.
+- There are 3 types of licenses being granted today
+  1. Technicial
+  2. General
+  3. Amateur Extra
+
+*Table 1.2: Amateur License Class Examinations*
+| License Class | Exam Element | # Of Q's           | Privileges           |
+|---------------+--------------+--------------------+----------------------|
+| Technician    |            2 | 35 (26 is passing) | VHF+UHF, Some HF     |
+| General       |            3 | 35 (26 is passing) | All VHF, UH, Most HF |
+| Amateur Extra |            4 | 50 (37 is passing) | All amateur privs    |
+
+
+* Vocabulary
+- FCC
+  + The Federal Communications Commission
+- ITU
+  + The International Telecommunication Union
+- Bootlegging / Pirating
+  + The act of transmitting without having a license
+  + Also I assume pirate radio stations fall under this, transmitting music over airwaves they shouldn't be.
+- Services
+  + The different types of radio use.
+  + 4 examples of services are:
+    * Land
+    * Mobile
+    * Aviation
+    * Broadcasting
+- VEC
+  + Volunteer Examiner Coordinator
+  + The amateurs who help proctor exams for amateur licenses
+- NCVEC
+  + The National Conference of Volunteer Examiner Coordinators
+  + They elect representatives to writes questions used for the license exam question pool.
+    * The same questions at the end of this book!
+- VE
+  + Volunteer Examiners who actually adminster exam sessions.
+- Operator License / Ticket
+  + The license that gives you a call sign & allows you to transmit.
+- Element
+  + The exame for each of the three license classes
+  
+* Footnotes

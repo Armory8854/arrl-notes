@@ -1,0 +1,22 @@
+* Chapter Notes
+** Identification And Contacts
+- On the airwaves, you identify with a /call sign/. [fn:1]
+  + These are unique to every person with a license.
+- By transmitting your call, other hams know who you are and your nationality
+- Identifying yourself with your callsign is known as /signing/
+  + In fact, it's mandatory to transmit your /callsign/ regularly during every contact to know who transmitted what.
+- Any conversation made over the air is a /contact/
+- Attempting to make contact by transmitting your /callsign/ is making a call, or /calling/.
+- If you're making a "come in anybody" call to hear whoever can call, that's calling /CQ/ [fn:2]
+  + Once you establish contact, the next step is to exchange more information such as a /signal report/.
+  + Name and location are exchanged after that
+- A long conversation is known as a /ragchew/
+- At the end of the contact, you sign off.
+
+** Using Your Voice
+
+
+* Footnotes
+[fn:2] - CQ means a "General Call" 
+
+[fn:1] - The name given to you by the FCC license. Examples being "Steve WB8IMY" or "Mary K1MMH". Also referred to as your /call/.
