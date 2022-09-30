@@ -14,9 +14,131 @@
 - At the end of the contact, you sign off.
 
 ** Using Your Voice
+- The most popular /mode/ [fn:3] of making contacts is voice.
+- Voice is mainly used by amateurs for short & long distance contacts.
+- Most popular for hams on the go during public service or emergency response.
+- Technician license holders are able to make voice contacts directly, or by using /repeaters/ [fn:6] to relay signals from low power radois.
+  + Hams have made internet-linked repeaters that send digitized voices around the world.
+- Hams typically use English as a common language if contacts are international.
+  + Within a country, hams use their native language.
+  + However, using foreign languages with foreign speaking hams is a great way to practice your skills. Also I'm sure it's greatly appreciated by both parties.
 
+*** Ham Shorthand
+- Radio has it's own lingo and jargon.
+- Much of this originates from the days of morse code.
+  + Due to how long it took to transmit words, people stuck to acronyms or 2+ letters that meant something [fn:4].
+  + This was to keep information [fn:5] flowing quickly & smoothly.
+    * I.E. the word 'break' or 'breaker' is commonly used over radio. This word referred to a telegraph operator disconnecting, or breaking, the telegraph line so no characters could be sent.
+
+** Exchanging Digital Data
+- Thanks to cheap hardware and accessible signal processing software, there's a surge in /digital modes/ [fn:7] where the conversation is a stream of characters sent over radio waves.
+- A /data interface/ [fn:8] is used to connect radios to computers.
+- Most digital contacts are keyboard-to-keyboard [fn:9]
+- Methods of converting computer data to radio signals and back again is known as /protocols/. [fn:10]
+  + Different /protocols/ are used to get the most effective comms possible.
+- One example of digital radio systems developed by hams is email of radio. [fn:11]
+
+** Using Morse Code
+- /Morse/ [fn:12] is still very popular with hams still.
+- Due to the nature of the signal (on / off), /Morse/ works well when interference is strong or signals are weak.
+- /Morse/ can be transmitted by very simple transmitters.
+  + All you need is something else to turn a signal on & off.
+- Receiving and decoding /Morse/ [fn:13] requires only hearing (or some way to visualize the code) and a receiver.
+- Many operators prefer the rhythm and musicality of 'the code'.
+
+** Emergencies And Public Service
+- One of ham radios strongest values is the helping community.
+- Hams can set up temporary networks when major networks (phone, internet) fail during crisis.
+  + This works thanks to a community of skilled hams, with an independent communications system network.
+- Even technician license holders can help!
+  + One example is the ARRL's Introduction to Emergency Communication training course.
+
+*Table 1.3 - Emergency Response Organizations*
+| Acronym | Description                                                         |
+|---------+---------------------------------------------------------------------|
+| ARES    | Amateur Radio Emergency Service - ARRL Organized                    |
+| RACES   | Radio Amateur Civil Emergency Service (Works with defense agencies) |
+| SATERN  | Salvation Army Team Emergency Radio Network                         |
+| HWN     | Hurricane Watch Net (Works with National Hurricane Center           |
+| SKYWARN | Severe Weather Watch And Reporting System - Works With National Weather Service |
+
+- There are multiple ways hams can help, no matter the license tier or personal capabilities. These include:
+  + From Home
+    * Use bas station radios & antennas to provide long distance comms, relay messages, act as a net control to coordinate comms.
+  + From a vehicle
+    * Portable stations can relay coordination on the field.
+  + On foot
+    * Go where the action is to provide status reports and relay supply messages between control centers.
+- One of the most important functions is to relay communications accurately & effectively.
+
+** Awards And Contests
+- One way of keeping your skills honed as a ham is to participate in contests.
+- There are awards for many aspects of radio, such as /working/ [fn:14] Every state, different countries, contacting satellites, and making low power contacts.
+- Contests are known as /radiosport/
+
+*** Table 1.4 - Awards And operating Events For Technician Licenses
+*NOTE:* While this isn't a table, the info presented does better as a list.
+- OSCAR Satellite Communications Achievement Award
+  + Contact 20 different states, Canadian provinces, or countries using amateur satellite. Sponsored by AMSAT
+- ARRL VHF/UHF Century Club (VUCC)
+  + Contact grid squares using VHF & UHF bands
+    * 100 Grids on 50 and 144 MHz; 50 grids on 222 and 432 MHz; fewer on the higher bands)
+- ARRL and CQ VHF Contests
+  + Several contests throughout the year that make use of the VHF and UHF bands.
+- ARRL Field Day
+  + Largest on-the-air event in ham radio, held annually in june
+- ARRL 10 Meter Contest
+  + Held annually in December, there is plenty of activity in the Technician portions of the band
+
+** Novel Activities
+*** SSTV and ATV
+- /SSTV/ [fn:15] was invented by hams to send pictures over voice radios.
+  + Black and white or color images can be sent & recieved by computers with sound carsd.
+- /ATV/ [fn:16] is similar, but for video.
+  + Hooking up a regular video camera to an ATV transmitter works!
+
+*** Packet Radio & Broadband Hamnet
+- Amateurs use the AX.25 adaptation of commercial computer network protocols.
+- A special type of interfacec called an /TNC/ [fn:17] takes characters form a computer and re-packages them into packets, which are transmitted on regular radios.
+  + Usually on the VHF or UHF bands.
+- Hams have adapted WiFi routers, turning them into mesh networks.
+
+*** APRS - Automatic Packet Reporting System
+- Incited by Bob Brunings WB4APR
+- APRS integrates GPS positioning and other info with packet radio.
 
 * Footnotes
-[fn:2] - CQ means a "General Call" 
 
 [fn:1] - The name given to you by the FCC license. Examples being "Steve WB8IMY" or "Mary K1MMH". Also referred to as your /call/.
+
+[fn:2] - CQ means a "General Call"
+
+[fn:3] - The method of contact. Morse, Voice, Packet, etc.
+
+[fn:6] - Stations set up by amateurs to help relay messages over distances of up to 50 miles. Many use negative, or positive, offsets to differentiate traffic going in, to properly route traffic going out.
+
+[fn:4] - This are formally known as /prosigns/
+
+[fn:5] - Known as /traffic/
+
+[fn:7] - Any /mode/ [fn:3] that requires a computer. Internet enabled radios, /SDR/ (Software Defined Radio), and more.
+
+[fn:8] - [[https://www.dxengineering.com/search/part-type/digital-mode-interfaces][A link to some data interfaces - DX Engineering]]
+
+[fn:9] - Operators take turns typing. Similar to text messaging, just more low tech.
+
+[fn:10] - Some examples of this are /RTTY/ (Radio Teletype), /PSK31/ (Phase Shift Keying, 31 Baud [Wow!]),  or FT8 (Franke-Taylor design 8)
+
+[fn:11] - This is called WinLink. It's in an earlier footnote in these notes.
+
+[fn:12] - Commonly referred to as CW
+
+[fn:13] - Called /copying the code/
+
+[fn:14] - Making contact.
+
+[fn:15] - Slow Scan Television
+
+[fn:16] - Amateur Television
+
+[fn:17] - Terminal Node Controller
