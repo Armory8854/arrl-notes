@@ -132,6 +132,24 @@
 - All radio waves travel at the speed of light in whatever medium they are travelling, such as air [fn:T3B04]
   + represented by /c/
 - The speed of light in space & air is very close to 300 million meters / second [fn:T3B11]
+- Because the speed of radio waves are constant, one wavelength
+  + λ = c/f
+    * /c/ being the speed of light, /f/ being frequency
+  + This means that as frequency increases, wavelength decreases, and vice versa. [fn:T3B05]
+- A radio wave can be referred to by wavelength of frequency.
+  + Thanks to the formula above, if you know the frequency you know it's wavelength!
+    * λ in meters = 300 / /f/ in MHz [fn:T3B06]
+    * Because of this relationship, ham bands are often referred to by wavelength [fn:T3B07]
+      - I.E. "I'll call you on 2 meters. Let's try 146.52 MHz"
+        + The frequency band is referred to as "2 meters" because the radio waves approsimately are that long.
+
+*** For More Information
+- A radio wave can be referred to by wavelength or frequency since the 2 are related to speed of light.
+- A higher frequency takes less time to complete a cycle, so it doesn't move as far.
+- Waves at very high frequencies have short wavelengths
+  + I.E. Microwave
+- To convert from meters, to feet, multiply meters by 3.28
+- To get meters to inches, multiply meters by 39.37
 
 * Footnotes
 
