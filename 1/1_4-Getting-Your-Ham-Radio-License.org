@@ -1,0 +1,43 @@
+* Chapter Notes
+** The Technician License
+- The technician license is the first license you can get for ham radio.
+- Around 50% of all hams have just a tech license.
+- Once you gain experience, you can /upgrade/ your license to the General class, then the Amateur Extra class.
+  + These licenses gain more access to HF bands of Amateur Radio.
+
+** Obtaining A License
+- To get your license, you need to pass a 35 question multiple choice exam. This Covers:
+  + The rules of Ham Radio
+  + Simple operating procedures
+  + Basic electronics.
+- After you pass your exam, the examiners will give you a /CSCE/ [fn:1] documenting your achievement.
+  + They will also file paperwork to get your license granted by the FCC.
+  + Once your callsign shows up in the national database, you are allowed to transmit!
+
+** What We Assume About You
+- The only thing you need to succeed is:
+  + A strong interest in Amateur Radio
+  + A willingness to learn
+- There is simple math and science about radio & electricity.
+
+** Advanced Students
+- There are questions listed at the beginning of each section to help prove your knowledge.
+- If you pass all the questions, congrats, you probably already know what it's about!
+
+** Online Practice Exams
+- There are multiple places to take practice exams online.
+- A note of caution: make sure the questions are up to date!
+
+** Testing Process
+- The final step is to find a /test session/.
+- Bring 2 forms of ID!
+  + Bring your SSN as well
+- There is a testing fee (depends on the session)
+- If you pass the test, you fill out your /CSCE/ and an /NCVEC Form 605/.
+
+** Time To Get Started
+- If you follow the instructions carefully in this book, you should be in the clear!
+
+* Footnotes
+
+[fn:1] - Successful Completion of Examination 

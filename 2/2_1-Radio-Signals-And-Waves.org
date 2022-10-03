@@ -1,0 +1,140 @@
+* Chapter Notes
+- First let's start with the /signals/ that travel back & forth between radios.
+- All radio equipment is designed to generate, or manipulate, /radio signals/. [fn:1]
+- A /radio wave/ begins at an /antenna/ that turns an electrical signal into radio waves that travel at the speed of light.
+  + As the wave passes other antennas, it creates replicas of the original signal.
+  + A radio then turns that back into voice, data, or Morse.
+- The process of turning the transmitter's output signal into radio waves that leave the antenna is called /radiating/ or /radiation/.
+  + Radiation from an antenna is not the same as /ionizing radioation/, which is radioactivity.
+
+*** Metric Prefixes
+- Radio uses the Metric system due to it's ability to cover wide ranges of numbers easily + it's easy to convert.
+- Prefixes expand or shrink units, multiplying them by factors of 10.
+- For example, /kilometer (km)/ is one thousand meters, and a /millimeter (mm)/ is one-thousandth of a meter.
+
+*Table 2.1 - International System of Units (SI) - Metric Units*
+| Prefix | Symbol  | Multiplication Factor     |
+|--------+---------+---------------------------|
+| Tera   | T       | 10^12 = 12 0's (Trillion) |
+| Giga   | G       | 10^9 = 9 0's (Billion)    |
+| Mega   | M       | 10^6 = 6 0's (Million)    |
+| Kilo   | k       | 10^3 = 3 0's (Thousand)   |
+| Hecto  | h       | 10^2 = 2 0's (Hundred)    |
+| Deca   | da      | 10^1 = 1 0 (Tens)         |
+| Deci   | d       | 10^-1 = 1 .0              |
+| Centi  | c       | 10^-2 = 2 .0's            |
+| Milli  | m       | 10^-3 = 3 .0's            |
+| micro  | weird u | 10^-6 = 6 .0's            |
+| Nano   | n       | 10^-9 = 9 .0's            |
+| Pico   | p       | 10^-12 = 12 .0's          |
+
+- The most relevant prefixes you'll encounter from the table above are:
+  + Pico (p)
+  + Nano (n)
+  + Micro (u)
+  + Milli (m)
+  + Centi (c)
+  + Kilo (k)
+  + Mega (M)
+  + Giga (G)
+- The capitalization is important!
+
+**** Exam Questions - T5B01: How Many milliamperes is 1.5 amperes?
+  + 1.5 A = 1,500 mA
+  + Note 2 things here:
+    1. the base unit (A) becomes mA (milliAmperes)
+    2. milli means x 1000
+- T5B02: What is equal to 1,500,000
+  + 1,500 kHz, 1.5 MHz, 0.0015 GHz
+- T5B03: What is equal to one kilovolt?
+  + 1kV = 1000V
+- T5B04: Which is equal to one microvolt?
+  + 1 uv = one one-millionth of a volt
+  + AKA .000001
+- T5B05: Which is equal to 500 milliwatts?
+  + 500 mW = 0.5 W
+- T5B06: Which is equal to 3000 milliamperes?
+  + 3,000 mA = 3 A
+- T5B07: Which is equal to 3.525 MHz?
+  + 3.525 MHz = 3,525 kHz
+- T5B08: Which is equal to 1,000,000 picofarads?
+  + 1,000,000 pF = 1 uF
+- T5B12: Which is equal to 28400 kHz?
+  + 28400 kHz = 28.4 MHz
+- T5B13: Which is equal to 2425 MHz?
+  + 2425 MHz = 2.425 GHz
+
+** Frequency And Phase
+- Like a water wave, a radio wave continually varies in strength or /amplitude/ like the sine wave shown in *Figure 2.1*.
+- This continual change is called /oscillating/.
+- As a signal oscilates, each up and down sequence is called a /cycle/.
+- The number of /cycles per second/ is called a signal's /frequency/, represented by a lower-case /f/ [fn:T5A12].
+  + The unit of measurement for frequency is /hertz/, abbreviated Hz [fn:T5A06]
+- The /period/ of the cycle, /T/, is the duration.
+  + The reciprocal of the period, 1/T, is the signams frequency, /f/
+- 1 cycle per second is one hertz, or 1 Hz.
+- As frequency increases, it's easier to use units like kilohertz (1 kHz = 1000 Hz), megahertz (1 MHz = 1,000,000 Hz), and gigahertz (1 GHz, 1,000,000,000 Hz). [fn:T5C07] [fn:T5C13]
+
+*** For More Information
+- A /harmonic/ is a signal with a frequency that is a multiple (x2, x3) of a /fundamental/ frequency.
+- The harmonic that is twice the fundamental's frequency is called the /second harmonic/
+  + thrice the fundamental frequency is called the /third harmonic/
+  + And so on
+- There is no "First harmonic".
+- Every cycle of the signal has the same basic shape:
+  + Rising, falling, and returning where it started.
+- Position in a cycle is called a /phase/.
+  + Phase is used to compare how sine wave signals are aligned in time.
+  + Phase is measured in /degrees/ and there are 360 degrees in one cycle of a sine wave.
+  + If 2 sine waves have a phase difference of 180 degrees so that one wave is increasing while the other is decreasing, they are /out of phase/.
+  + Waves that have no phase difference so that they are increasing and decreasing at the same time are /in phase/.
+
+** The Radio Spectrum
+- If connected to a speaker, signals below 20 kHz produce sound waves we can hear, so we call them /audio frequency/, or /AF/ signals.
+- Signals that have a frequency over 20,000 Hz (20 kHz) are /radio frequency/ or /RF/ signals. [fn:T5C06]
+- The range of radio signal frequencies is called the /radio spectrum/.
+  + It starts at 20 kHz and continues through several hundred GHz, a thousand million times higher!
+
+*Table 2.2 - RF Spectrum Ranges*
+| Range Name                      | Abbreviation | Freq. Range      |
+|---------------------------------+--------------+------------------|
+| Very Low Frequency              | VLF          | 3 kHz - 30 kHz   |
+| Low Frequency                   | LF           | 30 kHz - 300 kHz |
+| Medium Frequency                | MF           | 300 kHz - 3 MHz  |
+| High Frequency [fn:T3B10]       | HF           | 3 MHz - 30 MHz   |
+| Very High Frequency [fn:T3B08]  | VHF          | 30 MHz - 300 MHz |
+| Ultra High Frequency [fn:T3B09] | UHF          | 300 MHz - 3 GHz  |
+| Super High Frequency            | SHF          | 3 GHz - 30 GHz   |
+| Extremely High Frequency        | EHF          | 30 GHz - 300 GHz |
+
+- A specific range of frequencines in which signals are used for a common purpose are called a /band/.
+  + The AM Broadcast band extends from 535 to 1700 kHz
+  + the FM Broadcast band covers 88 to 108 MHz
+- Bands used by hams are called /amateur/ham bands/
+
+*** For More Information
+- Frequencies above 1 GHz are considered /microwaves/.
+  + Microwave ovens operate at 2.4 GHz
+    * So does wifi if I'm right? some of it anyways.
+- Hams primarily use frequencies in the /MF/ (Medium Frequency) through /UHF/ (Ultra High Frequency) and Microwave ranges, but have 2 bands in the /LF/ (Low Frequency) range as well.
+
+
+* Footnotes
+
+[fn:1] -  A /radio signal/ can be electrical energy inside radio equipment, or a /radio wave/ travelling through space.
+
+[fn:T5A12]: What describes the number of times per second that an alternating current makes a complete cycle?
+
+[fn:T5A06]: What is the unit of frequency?
+
+[fn:T5C07]: What is the abbreviation for megahertz?
+
+[fn:T5C13]: What is the abbreviation for kilohertz?
+
+[fn:T5C06]: What does the abbreviation /RF/ mean?
+
+[fn:T3B10]: What frequency range is referred to as HF?
+
+[fn:T3B09]: What frequency range is referred to as UHF?
+
+[fn:T3B08]: What Frequency Range is referred to as VHF?
