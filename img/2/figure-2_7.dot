@@ -1,0 +1,19 @@
+digraph G {
+	fontname="Helvetica,Arial,sans-serif" bgcolor="aliceblue"
+	node [fontname="Helvetica,Arial,sans-serif" shape="rectangle" penwidth="3" style="filled" fillcolor="white"]
+	edge [fontname="Helvetica,Arial,sans-serif"]
+
+	a [label="Transmitter"]
+	b [label="Duplexer"]
+	c [label="Receiver"]
+	sigout [label="Transmitted Signal Out" shape="plain"]
+	antenna [label="Antenna" shape="plain"]
+	sigin [label="Received Signal In" shape="plain"]
+
+	a -> b -> c
+	b -> antenna [dir="none"]
+	sigin -> b
+	b -> sigout
+	c -> a
+
+}

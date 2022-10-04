@@ -1,0 +1,32 @@
+digraph G {
+	/* First, we want to assign a default font style and background for the flowchart */
+	fontname="Helvetica,Arial,sans-serif" bgcolor="aliceblue" rankdir="TB"
+	/* Then, we want to specify the defaults for all new nodes */
+	node [fontname="Helvetica,Arial,sans-serif" shape="rectangle" penwidth="3" style="filled" fillcolor="white"]
+	/* Finally, we specify the defaults for all new edge elements */
+	edge [fontname="Helvetica,Arial,sans-serif"]
+
+	/* Begin labelling and detailing nodes below. */
+	/* In this instance, there are 3 main nodes, with another 2. */
+	/* the main 3 are housed inside a box that should be labelled */
+	/* Transciever as well. */
+
+	subgraph cluster_0 {
+		graph [pad="0.212,0.055"]
+		/* Identify the basic 3 node path */
+		a [label="Transmitter" pos="0,0!"]
+		b [label="TR Switch" pos="2,0!"]
+		c [label="Receiver" pos="4,0!"]
+
+		a -> b
+		b -> c
+		label="Transciever"
+	}
+
+	/* Identify the antenna element */
+	subgraph cluster_1 {
+		peripheries=0
+		antenna [label="Antenna" shape="plain" pos="2,2!"]
+		b -> antenna [label="Feedline"]
+	}
+}

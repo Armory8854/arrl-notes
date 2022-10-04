@@ -1,0 +1,41 @@
+* Chapter Notes
+** Basic Station Organization
+- The 3 basic elements of any amateur station are:
+  1. /Transmitter/
+     - Abbreviated /XMTR/
+     - Generates a signal that carries speech, /Morse/, or data.
+  2. /Receiver/
+     - Abbreviated /RCVR/
+     - Recovers speech, /Morse/, or data from a signal.
+       + That signal originates from a /Transmitter/.
+  3. Antenna
+     - Turns radio signals from a transmitter into energy that travels through space as a radio wave.
+     - Antennas capture radio waves & turn them into signals for a receiver to use.
+     - A /feed line/ connects the antenna to the transmitter or receiver.
+       + /feed lines/ are also called /transmission lines/, just like power lines.
+       + A /transmit-receive (TR) Switch/ allows a transmitter and receiver to share a single antenna.
+- Most ham equipment combines the transmitter and receiver into a single piece of equipment called a /transceiver/ [fn:T7A02]
+  + Abbreviated /XCVR/
+  + Also called /rigs/
+    * I.E. a transciever intended for mounting in a vehicle is a /mobile rig/
+
+*Figure 2.6*
+[[file:../img/2/figure-2_6.png]]
+
+** Repeaters
+- /Repeaters/ are receivers+transmitter combos that re-transmit the info from a received signal simultaneously on another frequency or channel [fn:T1F09].
+  + This action of receiving and transmitting is known as /duplex communication/
+- Figure 2.7 shows the basic elements of a repeater station.
+  + Because a repeater receives and transmits at the same time, it does not use a /TR Switch/, it uses a /duplexer/.
+
+*Figure 2.7*
+[[../img/2/figure-2_7.png]]
+/In a repeater, the receivers output is immediately retransmitted by the transmitter on a different frequency. The duplexer allows the transmitter and receiver to share a common antenna at the same time./
+
+- Repeaters provide local and regional comms for low powered mobile & portable stations.
+  + Repeaters jobs are to provide strong low noise signals that everyone can hear, especially in times of crisis.
+
+* Footnotes
+[fn:T7A02]: What is a Transceiver?
+
+[fn:T1F09]: What type of amateur station simultaneously retransmits the signal of another amateur station on a different channel or channels?
