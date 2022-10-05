@@ -20,6 +20,7 @@
     * I.E. a transciever intended for mounting in a vehicle is a /mobile rig/
 
 *Figure 2.6*
+
 [[file:../img/2/figure-2_6.png]]
 
 ** Repeaters
@@ -29,7 +30,9 @@
   + Because a repeater receives and transmits at the same time, it does not use a /TR Switch/, it uses a /duplexer/.
 
 *Figure 2.7*
+
 [[../img/2/figure-2_7.png]]
+
 /In a repeater, the receivers output is immediately retransmitted by the transmitter on a different frequency. The duplexer allows the transmitter and receiver to share a common antenna at the same time./
 
 - Repeaters provide local and regional comms for low powered mobile & portable stations.

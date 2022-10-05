@@ -118,7 +118,7 @@
     * So does wifi if I'm right? some of it anyways.
 - Hams primarily use frequencies in the /MF/ (Medium Frequency) through /UHF/ (Ultra High Frequency) and Microwave ranges, but have 2 bands in the /LF/ (Low Frequency) range as well.
 
-[[../img/2/figure-2_4.png][Figure 2.4]]
+[[../img/2/figure-2_4.png]]
 
 - The figure above shows a new way to look at signals.
   + Instead of showing signal amplitude varying from time left to right, this /spectrum display/ organizes signals according to frequencies.
@@ -127,7 +127,8 @@
 - The /wavelength/ of a radio wave is the distance that it travels during 1 complete cycle.
   + Wavelength is represented by the Greek letter lambda.
 
-[[../img/2/figure-2_5.png][Figure 2.5]]
+[[../img/2/figure-2_5.png]]
+
 /Note that the orange line signifies the Lambda of the sine wave/.
 - All radio waves travel at the speed of light in whatever medium they are travelling, such as air [fn:T3B04]
   + represented by /c/
