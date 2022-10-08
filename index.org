@@ -13,3 +13,6 @@ Welcome to the homepage of my notes from the ARRL Technicians License Manual. Wh
 ** Chapter 2
 - [[./2/2_1-Radio-Signals-And-Waves.org][2.1 - Radio Signals And Waves]]
 - [[./2/2_2-Radio-Equipment-Basics.org][2.2 - Radio Equipment Basics]]
+
+** Chapter 3
+- [[./3/3_1-Electricity.org][3.1 - Electricity]]
