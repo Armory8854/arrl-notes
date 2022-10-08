@@ -1,3 +1,4 @@
+#+STARTUP: latexpreview
 * Chapter Notes
 ** Current And Voltage
 - Electric /current/ is the flow of /electrons/ [fn:T5A03]
@@ -47,8 +48,82 @@
 
 /Figure A shows 3 light bults and a battery connected in a *series*. The same current flows from the battery through all 3 light bulbs. Figure B shows the same bulbs and battery connected in a *parallel* circuit. The same voltage form the battery is applied across each light bulb./
 
--
-  
+- At the junction of two components in a series circuit (Figure 3.3 A), you can see the current is unchanged - the same throughout the circuit.
+- If 2 components are connected in parallel, the current divides between them.
+  + Evenly? I assume that depends on other components like resistors and such.
+- When components are connected in parallel with a source of voltage, such as a battery a la figure 3.3 B, the voltage across each is equal.
+  + Answer to the above question I had.
+- When the components are connected in series with the source of voltage, a la Figure 3.2 A, the voltage divides between the components *depending on their type & value*.
+- Voltmeters are connected in parallel with or 'across' a component or circuit to measure voltage [fn:T7D02]
+- Ammeters and multimeters configured to measure current are connected in series with a component on a circuit [fn:T7D03]
+  + To summarize both above test questions:
+    * Voltmeters are parallel
+    * Ammeters are series
+
+*** Economies of Scale - The Multimeter
+- The basic electrical test instruments are meters
+  + Voltmeters
+  + Ammeters
+  + Ohmmeters
+- All 3 of the above are combined in a /multimeter/, which measures all 3 electrical values of [fn:T7D07]
+  + Voltage
+  + Current
+  + Resistance
+- Multimeters are also referred to as:
+  + /VOM/
+    * Volt-Ohm Meter
+  + /DVM/
+    * Digital Volt Meter
+- Trying to measure voltage, or connecting the probes to an energized circuit when the meter is set to measure resistance, is a common way to damage a multimeter [fn:T7D06] [fn:T7D11]
+- Take note of the multimeters voltage rating before use.
+  + Voltages beyond the rating can 'flashover' to other pieces of equipment. Or to you, the handler of the multimeter!
+    * This creates a shoch hazard to you and your surroundings!
+    * *Ensure that the voltmeter and leads are rated for use at the voltages to be measured!!!!* [fn:T0A12]
+- If you are measuring the resistance of a circuit and the reading starts out low, but gradually incrases, that indicates the presence of a large-value discharged capacitor [fn:T7D10]
+
+** Resistance & Ohms Law
+*** Resistance
+- All materials oppose the flow of electrons through them, whether in the form of /dc/ or /ac/ at power frequencies like 70 Hz or RF that we use for radio signals.
+- This property is called /resistance/, represented by /R/.
+  + Resistance is measured in ohms, represented by the greek letter omega /ω/.
+  + Resistance is measured with an /ohmmeter/, which must be connected to a component in parallel [fn:T5A04] [fn:T5A11]
+- Materials in which electrons flow easily in response to voltage are /conductors/
+  + Metals such as copper are good conductors. [fn:T5A07]
+- Materials that resist the flow of electrons are /insulators/
+  + Such as glass, ceramic, dry wood, paper, plastics, non-metals [fn:T5A08]
+
+*** Ohm's Law
+- Ohm's law states that the current through a material is directly proportional to the voltage across it, and inversely proportional to the material's resistance.
+  + The higher the resistance, the lower the current.
+- As an equation, Ohm's law is
+  \begin{equation}
+  I = E / R
+  \end{equation}
+  + It's also written as
+    \begin{equation}
+    I = V / R
+    \end{equation}
+    * Where V is Voltage
+- If you know any two of /I/, /E/, or /R/, you can determine the missing quantity as follows:
+  \begin{equation}
+  I = E / R
+  \end{equation}
+  [fn:T5D01]
+
+  \begin{equation}
+  E = I x R
+  \end{equation}
+  [fn:T5D02]
+
+  \begin{equation}
+  R = E / I
+  \end{equation}
+  [fn:T5D03]
+
+- Figure 3.5A is an easy way to remember ohm's law.
+
+[[../img/3/figure-3_5.png]]
+
 * Footnotes
 [fn:T5A01]: Electrical current is measured in which of the following units?
 
@@ -69,3 +144,27 @@
 [fn:T7D02]: How is a voltmeter connected to a component to measure applied voltage?
 
 [fn:T7D03]: When configured to measure current, how is a multimeter connected to a component?
+
+[fn:T7D06]: Which of the following can damage a multimeter?
+
+[fn:T7D07]: Which of the following measurements are made using a multimeter?
+
+[fn:T7D10]: What reading indicates that an ohmmeter is connected across a large, discharged capacitor?
+
+[fn:T7D11]: Which of the following precautions should be taken when measuring in-circuit resistance with an ohmmeter?
+
+[fn:T0A12]: Which of the following precautions should be taken when measuring high voltages with a voltmeter?
+
+[fn:T5A04]: What are the units of electrical resistance?
+
+[fn:T5A07]: Why are metals generally good conductors of electricity?
+
+[fn:T5A08]: Which of the following is a good electrical insulator?
+
+[fn:T5A11]: What type of current flow is opposed by Resistance?
+
+[fn:T5D01]; What formula is used to calculate current in a circuit?
+
+[fn:T5D02]: What formula is used to calculate voltage in a circuit?
+
+[fn:T5D03]: What formula is used to calculate resistance in a circuit?
