@@ -3,3 +3,4 @@ venv/
 
 # ignore all autosave files from emacs
 *~
+*\#
