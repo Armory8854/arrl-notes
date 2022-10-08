@@ -21,7 +21,7 @@
 
 *Figure 3.1*
 
-[[./img/3/figure-3_1.png]]
+[[../img/3/figure-3_1.png]]
 
 /Direct Current (Top graph) flows steadily in one direction. Pulsaging directly from currents may stop and start, but always flow in the same direction (the orange line signifies the current flowing in the same direction). Alternating Currents (bottom graph) regularly reverse direction/
 
@@ -46,6 +46,9 @@
 [[../img/3/figure-3_3_b.jpg]]
 
 /Figure A shows 3 light bults and a battery connected in a *series*. The same current flows from the battery through all 3 light bulbs. Figure B shows the same bulbs and battery connected in a *parallel* circuit. The same voltage form the battery is applied across each light bulb./
+
+-
+  
 * Footnotes
 [fn:T5A01]: Electrical current is measured in which of the following units?
 
